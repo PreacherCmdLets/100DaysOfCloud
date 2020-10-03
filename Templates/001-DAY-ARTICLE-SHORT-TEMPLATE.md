@@ -21,6 +21,4 @@
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-    My LinkedIn - www.linkedin.com/in/ashwinmaddi
-    
 [link](link)
