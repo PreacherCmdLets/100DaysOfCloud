@@ -14,13 +14,14 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## ASHWIN MADDI's Cloud Journey
+   
+   Hi I am Ashwin Maddi, I am a Senior Database Administration consultant, Experience in Database Architecture / Administration /  Performance Tunning /Monitoring  / Automation activities in the field of HealthCare , Retail , Financial Industry.  
 
-[✍️ Introduce yourself]
+  I started the challenge because,  I like to explore Cloud solutions architecture, including the IaaS, PaaS, and hybrid cloud scenarios and help any organization who needs guidance on implementing Microsoft Azure / AWS / Google Cloud / Alibaba into their business production environment.
 
-[✍️ Tell us why you started this challenge]
+  By the end of the challenge I would like to have good foundational understating of Azure Platform and other major  Hybrid Cloud Analytics Systems and Architecture
 
-[✍️ Tell us where you want to be at the end of the challenge]
 
 - [✍️ Link to your Twitter](https://twitter.com/@AshwinMaddi)
 - [✍️ Link to your LinkedIn](https://www.linkedin.com/in/ashwinmaddi)
