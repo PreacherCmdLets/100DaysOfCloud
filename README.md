@@ -23,7 +23,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
   By the end of the challenge I would like to have good foundational understating of Azure Platform and other major  Hybrid Cloud Analytics Systems and Architecture
 
 
-- Twitter    (https://twitter.com/@AshwinMaddi)
+- Twitter   (https://twitter.com/@AshwinMaddi)
 - LinkedIn  (https://www.linkedin.com/in/ashwinmaddi)
 
 ## Stepping out the door
