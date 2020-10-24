@@ -16,16 +16,16 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 ## ASHWIN MADDI's Cloud Journey
    
-   Hi I am Ashwin Maddi, I am a Senior Database Administration consultant, Experience in Database Architecture / Administration /  Performance Tunning /Monitoring  / Automation activities in the field of HealthCare , Retail , Financial Industry.  
+  Hi I am Ashwin Maddi, As a Senior Database Administrator, I've been working as a Database Architecture / Administrator / Support for various companies with different focus areas. Consulting with mid-markets, developing a thorough and knowledgeable understanding of each client’s unique business and operational needs to define current and future processes.
+
+  I play a crucial role in Database Architecture plan, Implement cloud infrastructure solutions that balance simplicity, standards, scalability, extensibility, supportability, and integrity. Providing expert mentorship on standards for design, best practices, engineering changes, and configuration management across the hybrid cloud infrastructure. Provide guidance on core components such as backup, recovery, supervising services within Azure and work with the infrastructure teams with expertise in their respective areas for design, implementation and integration into with on-prem private cloud. Implement cost optimized solutions (based on usage, business requirements and budget. Regularly evaluate existing on-prem / cloud infrastructure technologies to find opportunities for improvement. 
 
   I started the challenge because,  I like to explore Cloud solutions architecture, including the IaaS, PaaS, and hybrid cloud scenarios and help any organization who needs guidance on implementing Microsoft Azure / AWS / Google Cloud / Alibaba into their business production environment.
 
   By the end of the challenge I would like to have good foundational understating of Azure Platform and other major  Hybrid Cloud Analytics Systems and Architecture
 
-
 - [Twitter](https://twitter.com/@AshwinMaddi)
 - [LinkedIn](https://www.linkedin.com/in/ashwinmaddi)
-
 
 
 ## Stepping out the door
