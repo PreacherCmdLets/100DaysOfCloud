@@ -1,15 +1,25 @@
 **Add a cover photo like:**
 ![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# Cloud Research 
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+✍️ (Why) Explain in one or twCloud Research o sentences why you choose to do this project or cloud topic for your day's study.
+
+Microsoft Azure Fundamentals (AZ-900) 
+
+This skill is intended to cover the foundational knowledge needed to understand Microsoft's Azure offering. when it comes to the products and services a Microsoft Azure subscription provides. This is an excellent starting point for those looking to get started in working with cloud services and solutions in the Azure space.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+This path is meant for beginners to the Microsoft Azure world. Learners should have entry level knowledge of core cloud concepts
+
+What you will learn
+Azure cloud concepts
+Azure core services and products
+Azure security, privacy, compliance, and trust
+Azure pricing and support options
 
 ## Use Case
 
