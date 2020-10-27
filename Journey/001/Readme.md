@@ -19,12 +19,12 @@ Should have a strong understanding of core Azure services, Azure workloads, secu
 
 The high-level view of the skills measured in the exam:
 
-Manage Azure identities and governance (15-20%)
-Implement and manage storage (10-15%)
-Deploy and manage Azure compute resources (25-30%)
-Configure and manage virtual networking (30-35%)
-Monitor and back up Azure resources (10-15%)
-You can find more information on the exam website.
+	Manage Azure identities and governance (15-20%)
+	Implement and manage storage (10-15%)
+	Deploy and manage Azure compute resources (25-30%)
+	Configure and manage virtual networking (30-35%)
+	Monitor and back up Azure resources (10-15%)
+
 
 ## Prerequisite
 
