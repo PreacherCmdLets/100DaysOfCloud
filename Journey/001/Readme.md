@@ -5,11 +5,26 @@
 
 ## Introduction
 
-✍️ (Why) Explain in one or twCloud Research o sentences why you choose to do this project or cloud topic for your day's study.
+✍️ (Why) Explain in one or two Cloud Research o sentences why you choose to do this project or cloud topic for your day's study.
 
 Microsoft Azure Fundamentals (AZ-900) 
 
 This skill is intended to cover the foundational knowledge needed to understand Microsoft's Azure offering. when it comes to the products and services a Microsoft Azure subscription provides. This is an excellent starting point for those looking to get started in working with cloud services and solutions in the Azure space.
+
+Microsoft Azure Administrator (AZ-104) 
+
+The Azure Administrator implements, manages, and monitors identity, governance, storage, compute, and virtual networks in a cloud environment. The Azure Administrator will provision, size, monitor, and adjust resources as appropriate.
+
+Should have a strong understanding of core Azure services, Azure workloads, security, and governance. We should have experience in using PowerShell, the Command Line Interface, Azure Portal, and ARM templates.
+
+The high-level view of the skills measured in the exam:
+
+Manage Azure identities and governance (15-20%)
+Implement and manage storage (10-15%)
+Deploy and manage Azure compute resources (25-30%)
+Configure and manage virtual networking (30-35%)
+Monitor and back up Azure resources (10-15%)
+You can find more information on the exam website.
 
 ## Prerequisite
 
@@ -39,6 +54,16 @@ Azure pricing and support options
 
 ![Screenshot](https://via.placeholder.com/500x300)
 
+Manage Azure AD objects
+
+What is Azure Active Directory?
+
+Azure Active Directory (Azure AD) is Microsoft’s cloud-based identity and access management service, which helps your employees sign in and access resources in:
+	• External resources, such as Microsoft 365, the Azure portal, and thousands of other SaaS applications.
+	• Internal resources, such as apps on your corporate network and intranet, along with any cloud apps developed by your own organization. For more information about creating a tenant for your organization, see Quickstart: Create a new tenant in Azure Active Directory.
+	
+To learn the difference between Azure AD and Active Directory Domain Services, see Compare Active Directory to Azure Active Directory. You can also use the various Microsoft Cloud for Enterprise Architects Series posters to better understand the core identity services in Azure, Azure AD, and Microsoft 365.
+		
 ### Step 1 — Summary of Step
 
 ![Screenshot](https://via.placeholder.com/500x300)
